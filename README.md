@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Fundamentals project from Angular Documentation. Built so that I can practice my Angular skills. One more section left for HTTP.
 
+https://mystifying-elion-55cf72.netlify.com/dashboard
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
